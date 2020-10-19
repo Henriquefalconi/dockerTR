@@ -25,9 +25,10 @@ CMD ["nginx", "-g", "daemon off;"]
 Diretório de trabalho
 /home/app/
 
-Comando docker 
+Imagem docker 
 docker push hfalconi/ubuntu:tagname
 docker pull hfalconi/ubuntu:20.04
+
 
 hfalconi/ubuntu:20.04
 DIGESTÃO:sha256:054adb7888faa24a43f4a5c810f69fb55d7b23ef8123f173aaf020825f42dd25
