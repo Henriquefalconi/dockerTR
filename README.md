@@ -1,7 +1,7 @@
 # dockerTR
 CCO - Laravel 
 
-Projeto desenvolvido pelo UNIFEG no curso de CCO - Oitavo Período
+Projeto desenvolvido pelo UNIFEG no curso de CCO - 8° Período
 
 # definindo a imagem base do sistema operacional.
 FROM ubuntu:20.04
